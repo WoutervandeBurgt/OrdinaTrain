@@ -1,1 +1,14 @@
 streamlit
+numpy
+pandas
+json
+http.client
+urllib.request
+urllib.parse
+urllib.error
+base64
+math
+datetime
+pickle
+iso8601
+re
