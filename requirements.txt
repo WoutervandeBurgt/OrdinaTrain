@@ -1,7 +1,6 @@
 streamlit
 numpy
 pandas
-json
 http.client
 urllib.request
 urllib.parse
