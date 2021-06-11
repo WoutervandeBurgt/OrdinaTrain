@@ -1,0 +1,5 @@
+This repository contains the code for the deployment application for ordina.
+In order for it to work, the files should be exported in the same folder. 
+Then the .py file can be run using a python compiler.
+
+a video has been added to give a quick overview of what the application is about.
