@@ -1,0 +1,195 @@
+index,FullName,StationCode,id
+0,'s-Hertogenbosch,HT,2747351.0
+1,'s-Hertogenbosch Oost,HTO,2747351.0
+2,Akkrum,AKM,2759922.0
+3,Alkmaar,AMR,2759899.0
+4,Alkmaar Noord,AMRN,2759899.0
+5,Almelo,AML,2759887.0
+6,Almelo de Riet,AMRI,2759887.0
+7,Almere Centrum,ALM,2759879.0
+8,Almere Muziekwijk,ALMM,2759879.0
+9,Almere Oostvaarders,ALMO,6544259.0
+10,Almere Poort,AMPO,2759879.0
+11,Alphen a/d Rijn,APN,2751773.0
+12,Amersfoort,AMF,2759821.0
+13,Amersfoort Schothorst,AMFS,2759821.0
+14,Amersfoort Vathorst,AVAT,2759821.0
+15,Amsterdam Amstel,ASA,2759794.0
+16,Amsterdam Bijlmer ArenA,ASB,2759794.0
+17,Amsterdam Centraal,ASD,2759794.0
+18,Amsterdam Lelylaan,ASDL,2759794.0
+19,Amsterdam Muiderpoort,ASDM,2759794.0
+20,Amsterdam RAI,RAI,3383434.0
+21,Amsterdam Sloterdijk,ASS,2759794.0
+22,Amsterdam Zuid,ASDZ,6544881.0
+23,Anna Paulowna,ANA,2757220.0
+24,Apeldoorn,APD,2759706.0
+25,Arnemuiden,ARN,2750896.0
+26,Arnhem Centraal,AH,2759661.0
+27,Arnhem Zuid,AHZ,2759661.0
+28,Assen,ASN,2759633.0
+29,Baarn,BRN,2759544.0
+30,Bad Nieuweschans,NSCH,7535498.0
+31,Baflo,BF,2744337.0
+32,Barendrecht,BRD,2759426.0
+33,Beesd,BSD,2751808.0
+34,Beilen,BL,6544297.0
+35,Best,BET,2759040.0
+36,Beverwijk,BV,2758998.0
+37,Bilthoven,BHV,2757783.0
+38,Boskoop,BSK,2758547.0
+39,Boven-Hardinxveld,BHDV,2758500.0
+40,Boxtel,BTL,2758460.0
+41,Breda,BD,2758401.0
+42,Breukelen,BKL,2758333.0
+43,Capelle Schollevaar,CPS,2758011.0
+44,Coevorden,CO,2757937.0
+45,Daarlerveen,DA,2745169.0
+46,De Vink,DVNK,2751773.0
+47,Delft,DT,2757345.0
+48,Delft Zuid,DTZ,2757345.0
+49,Delfzijl,DZ,2757340.0
+50,Den Dolder,DLD,2743977.0
+51,Den Haag Centraal,GVC,2747373.0
+52,Den Haag HS,GV,2747373.0
+53,Den Haag Laan v NOI,LAA,2747373.0
+54,Den Haag Ypenburg,YPB,2747373.0
+55,Deurne,DN,2754447.0
+56,Deventer,DV,2756987.0
+57,Didam,DID,2759661.0
+58,Diemen,DMN,2756888.0
+59,Diemen Zuid,DMNZ,2756888.0
+60,Dieren,DR,2756865.0
+61,Doetinchem,DTC,2756767.0
+62,Doetinchem De Huet,DTCH,2756767.0
+63,Dordrecht,DDR,2756669.0
+64,Dordrecht Stadspolders,DDRS,2756669.0
+65,Dordrecht Zuid,DDZD,2756669.0
+66,Driebergen-Zeist,DB,2743977.0
+67,Driehuis,DRH,2756598.0
+68,Duiven,DVN,2756507.0
+69,Duivendrecht,DVD,2756504.0
+70,Ede-Wageningen,ED,2759660.0
+71,Eindhoven,EHV,2756253.0
+72,Elst,EST,2756161.0
+73,Emmen,EMN,2756136.0
+74,Emmen Zuid,EMNZ,2756136.0
+75,Enschede,ES,2756071.0
+76,Franeker,FN,2755845.0
+77,Geldermalsen,GDM,2755633.0
+78,Gilze-Rijen,GZ,2755506.0
+79,Gorinchem,GR,2755434.0
+80,Gouda,GD,2755420.0
+81,Gouda Goverwelle,GDG,2755420.0
+82,Gramsbergen,GBG,2754858.0
+83,Groningen,GN,2755251.0
+84,Haarlem,HLM,2755003.0
+85,Haarlem Spaarnwoude,HLMS,2755003.0
+86,Hardenberg,HDB,2754861.0
+87,Hardinxveld-Giessendam,GND,2758500.0
+88,Heemstede-Aerdenhout,HAD,2755003.0
+89,Heerenveen,HR,2754669.0
+90,Heerhugowaard,HWD,2754659.0
+91,Heerlen,HRL,2754652.0
+92,Heiloo,HLO,2754516.0
+93,Helmond,HM,2754447.0
+94,Hengelo,HGL,2754394.0
+95,Hengelo,HGL,2754395.0
+96,Hilversum,HVS,2754064.0
+97,Hoek van Holland Haven,HLD,2754007.0
+98,Hoofddorp,HFD,2753801.0
+99,Hoogeveen,HGV,2753719.0
+100,Hoorn,HN,2753638.0
+101,Hoorn Kersenboogerd,HNK,2753638.0
+102,Houten Castellum,HTNC,2753557.0
+103,Kampen,KPN,2753106.0
+104,Kampen Zuid,KPNZ,2753106.0
+105,Koog Bloemwijk,KBW,2744118.0
+106,Krommenie-Assendelft,KMA,2752240.0
+107,Leeuwarden,LW,2751792.0
+108,Leiden Centraal,LEDN,2751773.0
+109,Leiden Lammenschans,LDL,2751773.0
+110,Lelystad Centrum,LLS,2751738.0
+111,Maassluis,MSS,2751285.0
+112,Maassluis West,MSW,2751285.0
+113,Maastricht,MT,2751283.0
+114,Maastricht Randwyck,MTR,2751283.0
+115,Mantgum,MG,2751212.0
+116,Mariënberg,MRB,2749611.0
+117,Martenshoek,MTH,2755250.0
+118,Meppel,MP,2750947.0
+119,Middelburg,MDB,2750896.0
+120,Naarden-Bussum,NDB,2750521.0
+121,Nieuw Vennep,NVP,2754999.0
+122,Nijmegen,NM,2750053.0
+123,Nijmegen Dukenburg,NMD,2750053.0
+124,Nunspeet,NS,2749756.0
+125,Obdam,OBD,2749745.0
+126,Ommen,OMN,2749611.0
+127,Oss,O,2749234.0
+128,Oudenbosch,ODB,2758401.0
+129,Purmerend,PMR,2748413.0
+130,Purmerend Overwhere,PMO,2748413.0
+131,Rhenen,RHN,2748185.0
+132,Roermond,RM,2748000.0
+133,Roodeschool,RD,3384125.0
+134,Rotterdam Alexander,RTA,2747891.0
+135,Rotterdam Blaak,RTB,2747891.0
+136,Rotterdam Centraal,RTD,2747891.0
+137,Rotterdam Lombardijen,RLB,2747891.0
+138,Santpoort Zuid,SPTZ,2745675.0
+139,Sauwerd,SWD,2755251.0
+140,Schagen,SGN,2747720.0
+141,Schiedam Centrum,SDM,2747596.0
+142,Schiedam Nieuwland,NWL,2747596.0
+143,Schiphol Airport,SHL,2759794.0
+144,Sittard,STD,2747203.0
+145,Sliedrecht Baanhoek,SDTB,2756669.0
+146,Soest,ST,2747034.0
+147,Soest Zuid,STZ,2747034.0
+148,Soestdijk,SD,2747034.0
+149,Steenwijk,SWK,2746766.0
+150,Tiel,TL,2746331.0
+151,Tilburg,TB,2746301.0
+152,Tilburg Universiteit,TBU,2746301.0
+153,Uitgeest,UTG,2745978.0
+154,Uithuizen,UHZ,2744337.0
+155,Usquert,UST,2744337.0
+156,Utrecht Centraal,UT,2745912.0
+157,Utrecht Overvecht,UTO,2745912.0
+158,Utrecht Terwijde,UTT,2745912.0
+159,Utrecht Zuilen,UTZL,2745912.0
+160,Veendam,VDM,2745783.0
+161,Veenendaal Centrum,VNDC,2745774.0
+162,Veenendaal-De Klomp,KLP,2745774.0
+163,Venlo,VL,2745641.0
+164,Vlaardingen Centrum,VDG,2745467.0
+165,Vlaardingen Oost,VDO,2745467.0
+166,Vlaardingen West,VDW,2745467.0
+167,Vleuten,VTN,2745911.0
+168,Voorschoten,VST,2745301.0
+169,Vriezenveen,VZ,2745182.0
+170,Vroomshoop,VHP,2745169.0
+171,Warffum,WFM,2744337.0
+172,Weert,WT,2744911.0
+173,Weesp,WP,2744904.0
+174,Wehl,WL,2756767.0
+175,Wierden,WDN,2744549.0
+176,Wijchen,WC,2744514.0
+177,Winschoten,WS,2744344.0
+178,Winsum,WSM,2744337.0
+179,Winsum,WSM,2744338.0
+180,Winterswijk West,WWW,2744332.0
+181,Woerden,WD,2744248.0
+182,Wolvega,WV,2744194.0
+183,Wormerveer,WM,2744113.0
+184,Zaandam,ZD,2744118.0
+185,Zandvoort aan Zee,ZVT,2744042.0
+186,Zevenaar,ZV,2743949.0
+187,Zoetermeer,ZTM,2743856.0
+188,Zoetermeer Oost,ZTMO,2743856.0
+189,Zuidbroek,ZB,2755250.0
+190,Zutphen,ZP,2743608.0
+191,Zwijndrecht,ZWD,2743493.0
+192,Zwolle,ZL,2743477.0
+193,Zwolle,ZL,2743478.0
